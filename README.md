@@ -16,16 +16,16 @@ Database - MongoDB
 
 ## Photos for reference
 
-![explanatory_diagram] (images/diag-exp.png)
+![explanatory_diagram] (./images/diag-exp.png)
 
-![backend] (images/backend.png)
+![backend] (./images/backend.png)
 
-![register] (images/register.png)
+![register] (./images/register.png)
 
-![login] (images/login.png)
+![login] (./images/login.png)
 
-![employee_dashboard] (images/employee-dashboard.png)
+![employee_dashboard] (./images/employee-dashboard.png)
 
-![employer_dashboard] (images/employer-dashboard.png)
+![employer_dashboard] (./images/employer-dashboard.png)
 
 
