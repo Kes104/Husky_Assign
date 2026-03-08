@@ -1,4 +1,4 @@
-[Note: he application logic is fully verified and functional in the local development environment. There is a known configuration sync issue with the Vercel/Render production routing that is being patched.]
+[Note: The application logic is fully verified and functional in the local development environment. There is a known configuration sync issue with the Vercel/Render production routing that is being patched.]
 
 ## Given Problem Statement
 Build a basic web application where employees can apply for leave and employers can approve or reject those requests.
