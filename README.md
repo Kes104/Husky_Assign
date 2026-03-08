@@ -15,6 +15,10 @@ Backend - Python (FastAPI)
 Database - MongoDB
 
 ## Photos for reference
+
+### System Diagram
+![System Diagram](./images/diag-exp.png)
+
 ### Login Page
 ![Login Screenshot](./images/login.png)
 
@@ -32,8 +36,5 @@ Database - MongoDB
 
 ### Backend Architecture
 ![Backend Architecture](./images/backend.png)
-
-### System Diagram
-![System Diagram](./images/diag-exp.png)
 
 
