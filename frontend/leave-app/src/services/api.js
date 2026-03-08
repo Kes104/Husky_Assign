@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 const API = axios.create({
-  baseURL: 'https://husky-assign.onrender.com/login'
+  baseURL: 'https://husky-assign.onrender.com'
 })
 
 // Attach token automatically to requests
