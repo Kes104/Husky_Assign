@@ -15,17 +15,25 @@ Backend - Python (FastAPI)
 Database - MongoDB
 
 ## Photos for reference
+### Login Page
+![Login Screenshot](./images/login.png)
 
-![explanatory_diagram] (./images/diag-exp.png)
+### Register Page
+![Register Screenshot](./images/register.png)
 
-![backend] (./images/backend.png)
+### Frontend View
+![Frontend View](./images/front-view.png)
 
-![register] (./images/register.png)
+### Employee Dashboard
+![Employee Dashboard](./images/employee-dashboard.png)
 
-![login] (./images/login.png)
+### Employer Dashboard
+![Employer Dashboard](./images/employer-dashboard.png)
 
-![employee_dashboard] (./images/employee-dashboard.png)
+### Backend Architecture
+![Backend Architecture](./images/backend.png)
 
-![employer_dashboard] (./images/employer-dashboard.png)
+### System Diagram
+![System Diagram](./images/diag-exp.png)
 
 
