@@ -18,7 +18,9 @@ def register(user: User):
         raise HTTPException(status_code=400, detail="User already exists")
 
     try:
-        hashed = bcrypt.hash(user.password)
+        # Truncate to 72 bytes to satisfy bcrypt's limit
+        password_to_hash = user.password[:72] 
+        hashed = bcrypt.hash(password_to_hash)
 
         new_user = {
             "name": user.name,
