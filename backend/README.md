@@ -1,5 +1,4 @@
 command to run :
-
     ```bash
     cd app
     python -m venv env (create python virtual environment)
